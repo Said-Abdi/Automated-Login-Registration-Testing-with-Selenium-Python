@@ -1,0 +1,11 @@
+{
+  "valid_user": {
+    "name": "Saciid Joof",
+    "email": "saciid@example.com",
+    "password": "StrongPass123"
+  },
+  "invalid_user": {
+    "email": "wrong@example.com",
+    "password": "WrongPass999"
+  }
+}
